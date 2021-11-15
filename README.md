@@ -6,7 +6,9 @@ Gustavo Malvone RM83448
 Gustavo Henrique Garrido de Melo – RM85136
 Beatriz Kül Rezende - RM85607
 
+## Video
 
+https://youtu.be/KIaIJw3wH4o
 
 ## Teste
 Abra o Google Colab
